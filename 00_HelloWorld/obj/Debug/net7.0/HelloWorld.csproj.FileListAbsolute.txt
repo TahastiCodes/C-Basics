@@ -1,0 +1,14 @@
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Users\tahas\desktop\Eleven Fifty\Coding Foundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
