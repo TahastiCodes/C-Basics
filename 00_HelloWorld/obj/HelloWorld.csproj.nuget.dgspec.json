@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahas\\Desktop\\Eleven Fifty\\Coding Foundations\\dotnetProjects\\csharpBasics\\00_HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\tahas\\desktop\\eleven fifty\\coding foundations\\dotnetprojects\\csharpbasics\\00_HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahas\\Desktop\\Eleven Fifty\\Coding Foundations\\dotnetProjects\\csharpBasics\\00_HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\tahas\\desktop\\eleven fifty\\coding foundations\\dotnetprojects\\csharpbasics\\00_HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahas\\Desktop\\Eleven Fifty\\Coding Foundations\\dotnetProjects\\csharpBasics\\00_HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\tahas\\desktop\\eleven fifty\\coding foundations\\dotnetprojects\\csharpbasics\\00_HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\tahas\\Desktop\\Eleven Fifty\\Coding Foundations\\dotnetProjects\\csharpBasics\\00_HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\tahas\\desktop\\eleven fifty\\coding foundations\\dotnetprojects\\csharpbasics\\00_HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\tahas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahas\\Desktop\\Eleven Fifty\\Coding Foundations\\dotnetProjects\\csharpBasics\\00_HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\tahas\\desktop\\eleven fifty\\coding foundations\\dotnetprojects\\csharpbasics\\00_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tahas\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,5 +1,8 @@
 ﻿string first = "The colors I like are";
 string second = "Grey and Crimson";
+
+//? We're concatenating a new string with only a space here. Notice we can combine it with the variables from above.
+
 string concatResult = first + " " + second;
 Console.WriteLine(concatResult);
 
