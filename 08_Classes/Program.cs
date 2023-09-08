@@ -6,7 +6,12 @@ Donut doug = new Donut("Jelly Filled", 3);
 //Console.WriteLine(doug.price);
 doug.SetDonutType("Glazed");
 Console.WriteLine(doug.GetDonutType());
-
+doug.Filling = "Strawberry Jam";
+Console.WriteLine(doug.Filling);
+doug.Topping = "Caramel";
+Console.WriteLine(doug.Topping);
+doug.isSpecial = false;
+Console.WriteLine(doug.isSpecial);
 namespace Classes
 {
     class Donut
@@ -18,10 +23,13 @@ namespace Classes
             donutType = type;
             price = dollars;
         }
+        public string Filling { get; set; }
         public string GetDonutType()
         {
             return donutType;
         }
+        public string Topping { get; set; }
+        public bool isSpecial { get; set; }
         public void SetDonutType(string type)
         {
             donutType = type;
