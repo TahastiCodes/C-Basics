@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLoops", "07_Loops\Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "08_Classes\Classes.csproj", "{60FA9BFA-4875-43FF-885C-322B25DED51E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drosnaf", "Drosnaf\Drosnaf.csproj", "{3D4A3E80-3469-40CA-A008-5D8D1AE97DDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +102,10 @@ Global
 		{60FA9BFA-4875-43FF-885C-322B25DED51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60FA9BFA-4875-43FF-885C-322B25DED51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60FA9BFA-4875-43FF-885C-322B25DED51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4A3E80-3469-40CA-A008-5D8D1AE97DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4A3E80-3469-40CA-A008-5D8D1AE97DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4A3E80-3469-40CA-A008-5D8D1AE97DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4A3E80-3469-40CA-A008-5D8D1AE97DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EBE55C2A-1B3C-489A-BF31-8A7434671900} = {18AFE349-93D2-4C54-B529-64B174CF80BB}
